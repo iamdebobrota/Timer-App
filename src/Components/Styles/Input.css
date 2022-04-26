@@ -1,0 +1,17 @@
+.TimerInput {
+    width: 100%;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    outline: none;
+    border-radius: 10px 10px 4px 10px;
+    transition: all 4.3s ease-in;
+ 
+}
+.TimerInput:hover{
+    transition: width 2s;
+    width: 550px;
+    margin: auto;
+}

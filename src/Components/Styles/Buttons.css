@@ -1,0 +1,29 @@
+.buttonsContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 28px 20px 1px 20px;
+    /* border: 5px solid rgb(255, 8, 57); */
+    transition: translate;
+    animation-duration: 2sec;
+    margin: 10px 0;
+}
+.button {
+    padding: 10px 15px;
+    color: #df1e2e;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+.button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scaleX(1.5);
+}
+.start:hover{
+    background-color: rgba(0, 219, 0, 0.481);
+}

@@ -1,0 +1,10 @@
+.TimerDisplay {
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    border-radius: 10px 10px 4px 10px;
+    background: rgba(55, 132, 255, 0.144);
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 45px;
+
+}
